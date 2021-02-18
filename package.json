@@ -18,9 +18,9 @@
   "author": "DomnicAmalan amalandomnic@gmail.com https://github.com/DomnicAmalan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DomnicAmalan/react-native-snapkit/issues"
+    "url": "https://github.com/DomnicAmalan/react-native-snapkit-tool/issues"
   },
-  "homepage": "https://github.com/DomnicAmalan/react-native-snapkit#readme",
+  "homepage": "https://github.com/DomnicAmalan/react-native-snapkit-tool#readme",
   "peerDependencies": {},
   "dependencies": {},
   "devDependencies": {}
