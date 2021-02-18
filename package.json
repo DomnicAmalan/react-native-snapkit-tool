@@ -1,0 +1,27 @@
+{
+  "name": "react-native-snapkit-tool",
+  "version": "1.0.1",
+  "description": "Snapkit for react native",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DomnicAmalan/react-native-snapkit.git"
+  },
+  "keywords": [
+    "snapkit",
+    "react-native",
+    "bitmoji"
+  ],
+  "author": "DomnicAmalan amalandomnic@gmail.com https://github.com/DomnicAmalan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DomnicAmalan/react-native-snapkit/issues"
+  },
+  "homepage": "https://github.com/DomnicAmalan/react-native-snapkit#readme",
+  "peerDependencies": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
